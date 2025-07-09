@@ -1,0 +1,4 @@
+[config]
+SCM_DO_BUILD_DURING_DEPLOYMENT=false
+# true requirements.txt 설치
+# false 빌드 과정 생략
